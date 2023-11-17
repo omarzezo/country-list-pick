@@ -50,22 +50,4 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="123" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600484644986">
-      <screen x="0" y="23" width="1920" height="1124" />
-    </state>
-    <state x="123" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1124@0.23.1920.1124" timestamp="1600484644986" />
-    <state x="248" y="100" key="CommitChangelistDialog2" timestamp="1600488956353">
-      <screen x="0" y="23" width="1920" height="1124" />
-    </state>
-    <state x="248" y="100" key="CommitChangelistDialog2/0.23.1920.1124@0.23.1920.1124" timestamp="1600488956353" />
-    <state x="160" y="224" key="SettingsEditor" timestamp="1600484159641">
-      <screen x="0" y="23" width="1920" height="1124" />
-    </state>
-    <state x="160" y="224" key="SettingsEditor/0.23.1920.1124@0.23.1920.1124" timestamp="1600484159641" />
-    <state x="100" y="123" width="1117" height="924" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600486921676">
-      <screen x="0" y="23" width="1920" height="1124" />
-    </state>
-    <state x="100" y="123" width="1117" height="924" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1920.1124@0.23.1920.1124" timestamp="1600486921676" />
-  </component>
 </project>
